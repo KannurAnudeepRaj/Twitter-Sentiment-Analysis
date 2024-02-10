@@ -10,7 +10,7 @@ An easy-to-use Python model for sentiment analysis on Twitter data. This project
 ## Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/twitter-sentiment-analysis.git
+   git clone https://github.com/KannurAnudeepRaj/product-review-sentiment-analysis.git
    ```
 2. **Install dependencies:**
    ```bash
