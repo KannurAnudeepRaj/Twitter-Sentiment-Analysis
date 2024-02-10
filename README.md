@@ -30,7 +30,3 @@ Respect Twitter's terms of service and API usage policies when collecting and an
 
 ## Contributing
 Found issues or want to contribute? Open an issue or submit a pull request.
-
-```
-
-Adjust the placeholder URLs and script names according to your project's structure.
